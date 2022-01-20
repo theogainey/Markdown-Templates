@@ -65,7 +65,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](../blob/main/README.md)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -87,7 +87,7 @@ Some text to show that the reference links can follow later.
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](../blob/main/README.md)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -130,20 +130,21 @@ Inline `code` has `back-ticks around` it.
 
 Blocks of code are either fenced by lines with three back-ticks ```
 Blocks of code also support Syntax Highlighting.
+
 ```
-```javascript
+``javascript
 const s = "JavaScript syntax highlighting";
 alert(s);
-```
+``
  
-```python
+``python
 s = "Python syntax highlighting"
 print s
-```
+``
  
-```
+``
 No language indicated, so no syntax highlighting. 
-```
+`` 
 ```
 
 ```javascript
