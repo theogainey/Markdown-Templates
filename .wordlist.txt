@@ -32,7 +32,11 @@ http
 HTTP 
 const
 javascript
+Javascript
+JavaScript
 blockquote
+Blockquote
+Blockquotes
 blockquotes
 Sparkbox
 Sprintly
@@ -47,3 +51,5 @@ CircleCI
 Snyk
 screenreader
 Changelog
+changelog
+macOS
